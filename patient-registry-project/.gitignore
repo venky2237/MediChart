@@ -1,0 +1,17 @@
+# --- backend (Python) ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+backend/patients.json
+
+# --- frontend (Node) ---
+frontend/node_modules/
+frontend/dist/
+
+# --- editors / OS ---
+.vscode/
+.idea/
+.DS_Store
+*.log

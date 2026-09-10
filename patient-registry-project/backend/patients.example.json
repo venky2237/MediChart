@@ -1,0 +1,18 @@
+{
+    "P001": {
+        "name": "Ananya Verma",
+        "city": "Hyderabad",
+        "age": 28,
+        "gender": "female",
+        "height": 162.0,
+        "weight": 58.0
+    },
+    "P002": {
+        "name": "Rohan Gupta",
+        "city": "Mumbai",
+        "age": 35,
+        "gender": "male",
+        "height": 178.0,
+        "weight": 82.0
+    }
+}
